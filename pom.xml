@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.myproject</groupId>
   <artifactId>webapp</artifactId>
-    <artifactId>maven-war-plugin</artifactId>
+  <artifactId>maven-war-plugin</artifactId>
     <version>3.3.2</version>
   <name>mywebapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
@@ -19,6 +19,7 @@
     <finalName>webapp</finalName>
   </build>
 </project>
+
 
 
 
