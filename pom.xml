@@ -9,6 +9,7 @@
     <artifactId>webhook-trigger</artifactId>
     <version>1.0.0</version>
     <packaging>war</packaging>
+    <version>3.3.0</version>
   <name>mywebapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -23,6 +24,7 @@
     <finalName>webapp</finalName>
   </build>
 </project>
+
 
 
 
