@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Congratulations You Have Successfully Deployed Java Applications with version - 01212000099000</h1>
+<h1>Congratulations You Have Successfully Deployed Java Applications with version - 012100</h1>
 <img src="image/image.jpg" alt="logo"> 
 </body>
 </html>
